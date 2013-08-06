@@ -1,0 +1,8 @@
+scripts/
+editor/
+behaviors/
+obj/
+bin/
+.DS_Store
+Makefile
+*.make
